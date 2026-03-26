@@ -30,15 +30,15 @@ module.exports = {
         langs: {
                 bn: {
                         error: "❌ An error occurred: contact MahMUD %1",
-                        success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 %1 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘\n\n•𝐀𝐃𝐌𝐈𝐍: 𝐌𝐚𝐡𝐌𝐔𝐃"
+                        success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 %1 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘\n\n•𝐀𝐃𝐌𝐈𝐍: 〲কারেন্ট 卝 সুন্দর ཐི༏ཋྀ"
                 },
                 en: {
                         error: "❌ An error occurred: contact MahMUD %1",
-                        success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 %1 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘\n\n•𝐀𝐃𝐌𝐈𝐍: 𝐌𝐚𝐡𝐌𝐔𝐃"
+                        success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 %1 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘\n\n•𝐀𝐃𝐌𝐈𝐍: 〲কারেন্ট 卝 সুন্দর ཐི༏ཋྀ"
                 },
                 vi: {
                         error: "❌ An error occurred: contact MahMUD %1",
-                        success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 %1 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘\n\n•𝐀𝐃𝐌𝐈𝐍: 𝐌𝐚𝐡𝐌𝐔𝐃"
+                        success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 %1 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘\n\n•𝐀𝐃𝐌𝐈𝐍: 〲কারেন্ট 卝 সুন্দর ཐི༏ཋྀ"
                 }
         },
 
