@@ -47,7 +47,7 @@ const emojiAudioMap = {
 
 module.exports.config = {
  name: "emoji_voice",
- version: "1.0.0",
+ version: "1.7",
  hasPermssion: 0,
  credits: "Islamick Chat Modified by Cyber-Sujon",
  description: "10 emoji = 10 voice response",
